@@ -8,6 +8,7 @@ Die Listen werden, soweit es die Zeit erlaubt, auf dem neuesten Stand gehalten.
 # mad_tos_list
 Die Liste mad_tos_list enthält Konten, welche in besonderer Weise aufgefallen sind. Dazu gehören Beleidigungen, Belästigungen,
 Manipulation von Followerzahlen, Betrug, gezieltes Abgreifen von Followern, Drohungen, Erpressung, Rassismus und exzessives Flirten.
+Sie können solche Konten auch selbst unter [Meldung](mailto:github@isds.tech) unter Mitsendung eines Beweises (Screenshot, VOD, ähnliches) vorschlagen.
 
 # follower_bot_list
 Diese Liste enthält Konten, die im Zusammenhang mit dem sogenannten Follower-Botting erfasst wurden.
@@ -27,10 +28,12 @@ Diese Liste enthält Konten, die als Spambots bezeichnet werden. Diese Bots werd
 
 # streamsniper_list
 In dieser Liste sind Konten aufgeführt, die sich durch das Beobachten Ihres Streams einen unfairen Vorteil in Spielen verschaffen.
+Sie können solche Konten auch selbst unter [Meldung](mailto:github@isds.tech) unter Mitsendung eines Beweises (Screenshot, VOD, ähnliches) vorschlagen.
 
 # seller_advertising_list
 Diese Liste enthält Konten, die in Chats Werbung machen. Dabei kann es sich um sogenannte Verkäufer-Bots handeln, aber auch um einzelne Streamer
 und Personen, die für einen anderen Kanal werben oder Produkte Werbung machen.
+Sie können solche Konten auch selbst unter [Meldung](mailto:github@isds.tech) unter Mitsendung eines Beweises (Screenshot, VOD, ähnliches) vorschlagen.
 
 # unban_list
 Diese Liste beinahltet Konten, welche entsperrt worden sind. Dies kann im Zuge eines Whitelistings eines Bots passieren, im Rahmen der Aufhebung eines Sicherheitsbannes
