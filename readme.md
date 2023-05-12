@@ -22,7 +22,7 @@ an dem Sie diese nicht haben wollen. Die Konten werden doppelt geprüft und teil
 Anträge auf Streichung von der Liste mit der Begründung, man habe nur teilgenommen, um nicht aufzufallen, werden nicht akzeptiert. Denn jeder, der mitmacht,
 ist ein Täter. Auch Accounts, die ein potentielles Sicherheitsrisiko für andere Streamer darstellen, z.B. durch einen Raid, stehen auf dieser Liste.
 Auf Grund der Vielzahl von Konten ist die Liste in 2 Listen unterteilt (0-M & N-Z). So können diese Listen einfacher mit den bekannten Tools gebannt werden.
-Sollten Sie Opfer eines Angriffes dieser Gruppen geworden sein, so können Sie sich gerne an unseren Kooperationspartner [TwitchMods DACH](https://discord.gg/e8YgSBeX86) wenden.
+Sollten Sie Opfer eines Angriffes dieser Gruppen geworden sein, so können Sie sich gerne an unseren Kooperationspartner [TwitchMods DACH](https://discord.gg/e8YgSBeX86) wenden, um nähere Informationen und weitergehende Hilfe zu erhalten.
 
 # spam_bot_list
 Diese Liste enthält Konten, die als Spambots bezeichnet werden. Diese Bots werden verwendet, um Ihren Chat mit Nachrichten zu spammen.
