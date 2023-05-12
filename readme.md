@@ -1,5 +1,5 @@
 # Wichtige Informationen
-Hier finden Sie unsere Listen über Follower-Bots, Stream-Snipers und Accounts, welche unangenehmt aufgefallen sind sowie
+Hier finden Sie unsere Listen über Follower-Bots, Stream-Snipers und Accounts, welche unangenehm aufgefallen sind sowie
 Hater/Troller aus diversen Gruppen (Drachengame, NWO, Herz5, et cetera pp).
 Die Listen sind als verifiziert zu betrachten. Wenn Ihr Account irgendwie auf eine dieser Listen gekommen ist und Sie 
 denken, dass er dort zu Unrecht aufgeführt ist, lassen Sie es uns bitte unter [Entbannungsanfrage](mailto:unban@isds.tech) wissen. 
