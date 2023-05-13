@@ -21,7 +21,7 @@ jedoch vorsichtig sein, welche Informationen Sie über sich preisgeben. Es ist n
 an dem Sie diese nicht haben wollen. Die Konten werden doppelt geprüft und teilweise mit Trackern ausgestattet, um die Raids besser verfolgen zu können.
 Anträge auf Streichung von der Liste mit der Begründung, man habe nur teilgenommen, um nicht aufzufallen, werden nicht akzeptiert. Denn jeder, der mitmacht,
 ist ein Täter. Auch Accounts, die ein potentielles Sicherheitsrisiko für andere Streamer darstellen, z.B. durch einen Raid, stehen auf dieser Liste.
-Auf Grund der Vielzahl von Konten ist die Liste in 2 Listen unterteilt (0-M & N-Z). So können diese Listen einfacher mit den bekannten Tools gebannt werden.
+Auf Grund der Vielzahl von Konten ist die Liste in 3 Listen unterteilt (0-M & N-Z). So können diese Listen einfacher mit den bekannten Tools gebannt werden.
 Sollten Sie Opfer eines Angriffes dieser Gruppen geworden sein, so können Sie sich gerne an unseren Kooperationspartner [TwitchMods DACH](https://discord.gg/e8YgSBeX86) wenden, um nähere Informationen und weitergehende Hilfe zu erhalten.
 
 # spam_bot_list
