@@ -24,6 +24,9 @@ ist ein Täter. Auch Accounts, die ein potentielles Sicherheitsrisiko für ander
 Auf Grund der Vielzahl von Konten ist die Liste in 3 Listen unterteilt (0-G, H-M & N-Z). So können diese Listen einfacher mit den bekannten Tools gebannt werden.
 Sollten Sie Opfer eines Angriffes dieser Gruppen geworden sein, so können Sie sich gerne an unseren Kooperationspartner [TwitchMods DACH](https://discord.gg/e8YgSBeX86) wenden, um nähere Informationen und weitergehende Hilfe zu erhalten.
 
+# security_ban_list
+Auf dieser Liste befinden sich Konten, welche mit Followern und Viewern der hate_troll_list kompromittiert sind. Ein Sicherheitsbann wird eingeleitet, um andere Streamer vor der Gefahr zu schützen, dass die o.g. Gruppen in deren Stream einfallen (z.B. durch s.g. Raids). Konten bleiben so lange auf der Liste, bis diese bereinigt und entsprechend gesichert worden sind.
+
 # spam_bot_list
 Diese Liste enthält Konten, die als Spambots bezeichnet werden. Diese Bots werden verwendet, um Ihren Chat mit Nachrichten zu spammen.
 
