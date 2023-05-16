@@ -110,6 +110,7 @@ hansikloeten
 hansipoppen
 hanskampfwurst
 hansmaulwurf0815
+hansmaulwurf86
 hansmaulwurf420
 hansmaulwurf123456788
 hansnotig88
@@ -146,6 +147,7 @@ harry00089
 harry_geehrsack
 harry_tanee
 harrygersack
+harrygersack_
 harrymaguireisteinhund
 harryschmitzseinopa
 hart_rheinscheissen
@@ -190,6 +192,7 @@ haustein
 hauzmeistar
 hay200007
 hayel_hidla
+hayl_hydila
 hayomau
 hayri6666
 haze_bax96
