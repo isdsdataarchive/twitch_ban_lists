@@ -3,7 +3,7 @@ Hier finden Sie unsere Listen über Follower-Bots, Stream-Sniper und Konten, wel
 von Hatern/Trollen aus diversen Gruppen (Drachengame, NWO, Herz5, et cetera pp).
 Die Listen sind als verifiziert zu betrachten. Wenn Ihr Account irgendwie auf eine dieser Listen gekommen ist und Sie 
 denken, dass er dort zu Unrecht aufgeführt ist, lassen Sie es uns bitte unter [Entbannungsanfrage](mailto:unban@isds.tech) wissen. 
-Die Listen werden, soweit es die Zeit erlaubt, auf dem neuesten Stand gehalten. 
+Die Listen werden automatisch aktualisiert. 
 
 # mad_tos_list
 Die Liste mad_tos_list enthält Konten, welche in besonderer Weise aufgefallen sind. Dazu gehören Beleidigungen, Belästigungen,
