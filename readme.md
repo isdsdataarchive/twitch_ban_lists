@@ -22,7 +22,7 @@ an dem Sie diese nicht haben wollen. Die Konten werden doppelt geprüft und teil
 Anträge auf Streichung von der Liste mit der Begründung, man habe nur teilgenommen, um nicht aufzufallen, werden nicht akzeptiert. Denn jeder, der mitmacht,
 ist ein Täter. Auch Accounts, die ein potentielles Sicherheitsrisiko für andere Streamer darstellen, z.B. durch einen Raid, stehen auf dieser Liste.
 Auf Grund der Vielzahl von Konten ist die Liste in 3 Listen unterteilt (0-G, H-M & N-Z). So können diese Listen einfacher mit den bekannten Tools gebannt werden.
-Sollten Sie Opfer eines Angriffes dieser Gruppen geworden sein, so können Sie sich gerne an unseren Kooperationspartner [TwitchMods DACH](https://discord.gg/e8YgSBeX86) wenden, um nähere Informationen und weitergehende Hilfe zu erhalten.
+Sollten Sie Opfer eines Angriffes dieser Gruppen geworden sein, so können Sie sich gerne an unser Frontoffice [TwitchMods DACH](https://discord.gg/e8YgSBeX86) wenden, um nähere Informationen und weitergehende Hilfe zu erhalten.
 
 # security_ban_list
 Auf dieser Liste befinden sich Konten, welche mit Followern und Viewern der hate_troll_list kompromittiert sind. Ein Sicherheitsbann wird eingeleitet, um andere Streamer vor der Gefahr zu schützen, dass die o.g. Gruppen in deren Stream einfallen (z.B. durch s.g. Raids). Konten bleiben so lange auf der Liste, bis diese bereinigt und entsprechend gesichert worden sind.
