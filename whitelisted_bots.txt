@@ -16,6 +16,7 @@ isnicable
 janinebans
 karottenkotzbot
 karottibot
+kofistreambot
 lattemotte
 littlemissmoonas_bot
 logviewer
