@@ -50,6 +50,7 @@ tipeeebot
 tooedgytobot
 twitchmodsdach
 vivbot
+vtuberplus
 widersinn
 wizebot
 wzbot
