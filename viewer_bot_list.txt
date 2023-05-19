@@ -908,7 +908,6 @@ botfactory
 botfumante
 botisimo
 botmokvt
-botrixlive
 botu_d
 botwildboar
 bouaf
