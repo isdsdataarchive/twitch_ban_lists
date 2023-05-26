@@ -687,6 +687,7 @@ inkompetentunfreundlich
 inmirdrinnen
 innet
 ins_gsichd
+ins_maul_kodzen
 insezt_saeugling
 inside_112
 insolventer_buttergolem
@@ -822,6 +823,7 @@ izmet_der_anrufer
 izmet_der_arzt
 izmet_der_ast
 izmet_der_balrr
+izmet_der_bannhammer
 izmet_der_barbar
 izmet_der_barbar1
 izmet_der_barbar2
@@ -928,6 +930,7 @@ izmet_der_vpnler
 izmet_der_wahre
 izmet_der_weise
 izmet_der_weisse
+izmet_der_werfer
 izmet_der_wunderbare
 izmet_der_wuselnde
 izmet_der_zocker
@@ -2076,6 +2079,7 @@ kreditkartenbetrueger67
 kreuterli
 krezyshark
 krfu1
+kriegswaffenkontrolgesetz
 kriminalermeddler
 kriminellah
 krimineller_asylant
@@ -2386,6 +2390,7 @@ llvclky
 lnfernodeicielo
 lnfernodelcielo
 lobotomierer
+lobotomierer_rex
 lochmoch
 lockerboss
 lockethebozz1234
@@ -2439,6 +2444,7 @@ lost1ca_fan
 lost1caisthuebsch
 lost1carauchentoetet
 losto21
+lotnispensi
 lotte_2903
 louisvuitton_larry10
 lourainsun
