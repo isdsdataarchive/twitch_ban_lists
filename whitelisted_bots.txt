@@ -33,6 +33,8 @@ own3d
 playwithviewersbot
 pokemoncommunitygame
 rainmaker
+s3mt3x
+s3mt3x_b0t
 servicedroide
 sery_bot
 silasbots014
