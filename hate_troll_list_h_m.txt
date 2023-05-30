@@ -843,6 +843,7 @@ izmet_der_barbar2
 izmet_der_baum
 izmet_der_beamter
 izmet_der_begleiter
+izmet_der_beiruter
 izmet_der_benutzende
 izmet_der_benutzer
 izmet_der_beste
