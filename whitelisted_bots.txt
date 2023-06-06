@@ -49,6 +49,7 @@ streamjar
 streamkit
 streamlabs
 swiftyspiffy
+teamkompass_ev
 tehfl0w
 tipeeebot
 tooedgytobot
