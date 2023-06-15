@@ -40,6 +40,7 @@
 000000000000000003_blacks
 0003ocin
 007_bad_girl
+01aaliyah
 01ella
 01linn
 01olivia
@@ -53,9 +54,6 @@
 0651166095
 072ijack
 09300757660
-0x2f7c37
-0x626f74
-0x4c554b49
 1_dev
 1a_twitch_emoticons_show_
 1adoener
@@ -1933,6 +1931,7 @@ federicofeliny
 federrrs
 feedmedata
 feelsduckman
+feelsgoodmanlongusernames
 feet
 feetmanjake
 feifacunzai
@@ -2078,6 +2077,7 @@ furrings
 fury788
 fusgang_
 fvmh97c
+fwost
 fxhxyz
 fxkrybot
 fyiden
@@ -2231,6 +2231,7 @@ gomar77
 gomes0834
 gon822
 goodardi
+goodgirlsage
 goodluckhjb
 googarin
 goooroder
@@ -6273,3 +6274,6 @@ zzbig_footzz
 zzleotherabbitzz
 zzoltman71
 zzwowo12
+0x2f7c37
+0x626f74
+0x4c554b49
