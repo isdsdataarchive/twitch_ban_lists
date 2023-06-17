@@ -3037,6 +3037,7 @@ luna_aus_rotten
 luna_aus_schwitzen3
 luna_schaurig_yt
 luna_t2
+luna_uwu42
 lunafettekuh
 lunameinemutter
 lunarianwraith
@@ -3396,6 +3397,7 @@ maul_fee
 maul_fontaene_
 maul_fresse
 maul_fresse_
+maul_maul_maul
 maul_necha_jaeger
 maul_voll_mit_kodse
 maulfodze__absaften_
