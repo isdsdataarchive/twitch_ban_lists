@@ -1160,6 +1160,7 @@ izmet_der_stecher69
 izmet_der_tackerer
 izmet_der_tankwart
 izmet_der_twitchende
+izmet_der_twitchmoddach
 izmet_der_ulmenpflanzer
 izmet_der_ulmenpfluecker
 izmet_der_unbannbare
