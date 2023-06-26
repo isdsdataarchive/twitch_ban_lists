@@ -1484,6 +1484,7 @@ buergergeld_altintash
 buergergeld_pattis_welt
 buergergeldbetatester
 buergergeldschmarotzer
+buergermeisterdesorients
 buergerwehrkleingeschaidi
 bug_in_the_club
 bugakkneparty
