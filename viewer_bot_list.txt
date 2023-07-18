@@ -54,6 +54,9 @@
 0651166095
 072ijack
 09300757660
+0x2f7c37
+0x626f74
+0x4c554b49
 1_dev
 1a_twitch_emoticons_show_
 1adoener
@@ -1235,6 +1238,7 @@ commanderadmin
 commanderfruut
 commanderrootdad
 commanderrooted
+commandersort
 commanderwacko
 commula
 communes
@@ -5889,6 +5893,7 @@ wandlordgamer
 wangdilolz
 wangliang0414
 wanhee297
+wannabemygamerfriend
 waptart
 warcrowq
 wardaddy1992
@@ -6139,6 +6144,7 @@ yohan1153
 yohuji
 yojandri
 yokhezebebeto
+yologirlio
 yomega__
 yomoma92892
 yookang111
@@ -6298,6 +6304,3 @@ zzbig_footzz
 zzleotherabbitzz
 zzoltman71
 zzwowo12
-0x2f7c37
-0x626f74
-0x4c554b49
