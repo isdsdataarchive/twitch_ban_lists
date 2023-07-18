@@ -1,3 +1,4 @@
+commanderroot
 derpierre65
 derregie65
 echtkpvl
@@ -6,6 +7,7 @@ eisenfutzi
 isnicable
 janinebans
 silasbots014
+teamkompass_ev
 tehfl0w
 widersinn
 x_nsa_x
