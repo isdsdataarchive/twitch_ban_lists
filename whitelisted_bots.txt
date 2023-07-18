@@ -4,7 +4,6 @@ amazefulbot
 bot_awk
 botrixlive
 buttsbot
-commanderroot
 creatisbot
 derschwarmbot
 dinu
@@ -42,7 +41,6 @@ streamjar
 streamkit
 streamlabs
 swiftyspiffy
-teamkompass_ev
 tipeeebot
 tooedgytobot
 twitchmodsdach
