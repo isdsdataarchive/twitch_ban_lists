@@ -1,14 +1,14 @@
-commanderroot
-derpierre65
-derregie65
-echtkpvl
-einfachuwe42
-eisenfutzi
-isnicable
-janinebans
-silasbots014
-teamkompass_ev
-tehfl0w
-widersinn
-x_nsa_x
-xerxis42
+/unban commanderroot
+/unban derpierre65
+/unban derregie65
+/unban echtkpvl
+/unban einfachuwe42
+/unban eisenfutzi
+/unban isnicable
+/unban janinebans
+/unban silasbots014
+/unban teamkompass_ev
+/unban tehfl0w
+/unban widersinn
+/unban x_nsa_x
+/unban xerxis42
