@@ -44,6 +44,7 @@
 /unban tipeeebot
 /unban tooedgytobot
 /unban twitchmodsdach
+/unban twitchmodssdach
 /unban vivbot
 /unban vtuberplus
 /unban wizebot
