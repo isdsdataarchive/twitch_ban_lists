@@ -13,6 +13,9 @@ Sie können solche Konten auch selbst unter [Meldung](mailto:github@isds.tech) u
 # follower_bot_list
 Diese Liste enthält Konten, die im Zusammenhang mit dem sogenannten Follower-Botting erfasst wurden.
 
+# greylisted_bots
+Auf dieser Liste befinden sich Konten, welche als ungefährlich einzustufen sind. Es handelt sich dabei um Nutzer von Programmen wie z.B. Chatterino oder Bots, welche keine böswilligen/schadhaften Funktionen in sich tragen. Explizit empfohlen wird eine Freigabe/Entbannung dieser Konten von uns jedoch nicht.
+
 # hate_troll_list
 Auf der Liste der Troll- oder Hass-Raids finden Sie die Teilnehmer dieser Raids, soweit diese bekannt sind.
 Kein Konto auf dieser Liste ist fälschlicherweise darauf zu finden. Die Accounts haben entweder diese Raids organisiert, an diesen Raids teilgenommen
