@@ -1,52 +1,53 @@
-/unban 7tvapp
-/unban amazeful
-/unban amazefulbot
-/unban bot_awk
-/unban botrixlive
-/unban buttsbot
-/unban creatisbot
-/unban derschwarmbot
-/unban dinu
-/unban dixperbro
-/unban fossabot
-/unban isds_official
-/unban karottenkotzbot
-/unban karottibot
-/unban kofistreambot
-/unban lattemotte
-/unban littlemissmoonas_bot
-/unban logviewer
-/unban lolrankbot
-/unban mikuia
-/unban miramariebot
-/unban mirawerner
-/unban mirrobot
-/unban moobot
-/unban nightbot
-/unban overrustlelogs
-/unban own3d
-/unban playwithviewersbot
-/unban pokemoncommunitygame
-/unban rainmaker
-/unban s3mt3x
-/unban s3mt3x_b0t
-/unban servicedroide
-/unban sery_bot
-/unban songlistbot
-/unban soundalerts
-/unban streamdeckerbot
-/unban streamelements
-/unban streamholics
-/unban streamjar
-/unban streamkit
-/unban streamlabs
-/unban swiftyspiffy
-/unban tipeeebot
-/unban tooedgytobot
-/unban twitchmodsdach
-/unban twitchmodssdach
-/unban vivbot
-/unban vtuberplus
-/unban wizebot
-/unban wzbot
-/unban xnanabot
+7tvapp
+amazeful
+amazefulbot
+bot_awk
+botrixlive
+buttsbot
+creatisbot
+derschwarmbot
+dinu
+dixperbro
+fossabot
+isds_official
+karottenkotzbot
+karottibot
+kofistreambot
+lattemotte
+littlemissmoonas_bot
+logviewer
+lolrankbot
+mikuia
+miramariebot
+mirawerner
+mirrobot
+moobot
+nightbot
+overrustlelogs
+own3d
+playwithviewersbot
+pokemoncommunitygame
+rainmaker
+s3mt3x
+s3mt3x_b0t
+servicedroide
+sery_bot
+songlistbot
+soundalerts
+streamdeckerbot
+streamelements
+streamholics
+streamjar
+streamkit
+streamlabs
+streamstickers
+swiftyspiffy
+tipeeebot
+tooedgytobot
+twitchmodsdach
+twitchmodssdach
+vivbot
+vtuberplus
+wizebot
+wzbot
+xnanabot
