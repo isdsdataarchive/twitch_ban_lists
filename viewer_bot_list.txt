@@ -5295,7 +5295,6 @@ streamlabs_stage
 streampromotebot
 streamsniper420bazereeeee
 streamstat_pl
-streamstickers
 streem_fun
 stripfang
 stupidcosmonaut
