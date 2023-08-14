@@ -6,7 +6,6 @@ botrixlive
 buttsbot
 commanderroot
 creatisbot
-derschwarmbot
 dinu
 dixperbro
 fossabot
