@@ -3,6 +3,7 @@ amazeful
 amazefulbot
 bot_awk
 botrixlive
+buttsbot
 commanderroot
 creatisbot
 derschwarmbot
