@@ -1777,6 +1777,7 @@ eklipse_chat_07
 eklipse_chat_08
 eklipse_chat_09
 eklipse_chat_10
+eklipse_chat_11
 el_burry_
 el_hacker_1001
 el_jarritos
@@ -5041,6 +5042,7 @@ sierrabots
 sierrapresents
 sierrobot
 siggior
+signmeupb4by
 sigoibuuh
 sigurniv
 silent_knight_34
