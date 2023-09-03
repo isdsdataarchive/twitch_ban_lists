@@ -365,7 +365,6 @@ herr_kakapopo
 herr_kakashi
 herr_malz
 herr_mann7b
-herr_nese
 herr_nick_a
 herr_oin_
 herr_olafscholz
