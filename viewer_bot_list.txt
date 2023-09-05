@@ -923,6 +923,7 @@ botfactory
 botfumante
 botisimo
 botmokvt
+botrixoficial
 botu_d
 botwildboar
 bouaf
@@ -2294,6 +2295,7 @@ grimztar
 grizchatbot
 gromist94
 gromodonec
+grooveroulette
 grossklags100
 grotemeloenen
 groundsoundfloor
@@ -2621,6 +2623,7 @@ inaqt
 incendiumgaming0bd
 inconspicuous_user
 inconspicuousyow
+incredible_user
 indignantmauling
 industrialparasite
 inekx684
