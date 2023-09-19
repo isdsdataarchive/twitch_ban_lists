@@ -47,6 +47,8 @@
 01ella
 01linn
 01olivia
+01tumajarbisaun
+01wifenlooof
 01zero01
 01010011alk
 01010011talk
@@ -58,6 +60,9 @@
 0651166095
 072ijack
 09300757660
+0x2f7c37
+0x626f74
+0x4c554b49
 1_dev
 1a_twitch_emoticons_show_
 1adoener
@@ -71,6 +76,7 @@
 1illllllll
 1industria
 1lulizz
+1magicalbeast
 1ndamiixcthedj
 1nittogether
 1paral8dv
@@ -755,6 +761,7 @@ bearfish1
 beastmodetaco69
 beastz45
 beatriz050312
+beeyourbestself
 belabors
 belcaf
 bell21
@@ -1733,6 +1740,7 @@ dynamic1904
 dynaterra
 dyniak__
 dyslectics
+dyslexicapricots
 earthwards
 eastray
 eatsaoe
@@ -1782,6 +1790,7 @@ eklipse_chat_08
 eklipse_chat_09
 eklipse_chat_10
 eklipse_chat_11
+eklipse_chat_12
 el_burry_
 el_hacker_1001
 el_jarritos
@@ -2440,6 +2449,7 @@ hillnessa05
 himearikawabot
 himekoelectric
 himtoshorthaha
+hinderedspirit
 hinmil_604
 hiphip0
 hipuddingl223
@@ -3762,6 +3772,7 @@ mimi13131
 mimisakura
 min_seong0733
 mindfulles
+mindinmybubble
 mindlessdressmoqbdh
 mindoflurk
 mindzonerl
@@ -5519,6 +5530,7 @@ thegreatryuk_
 thehakuuro
 thehammerfou81
 thejonesdoctor14
+thekral09
 theladminadmin
 thelimemime
 thelonewolf7yt
@@ -6333,6 +6345,3 @@ zzbig_footzz
 zzleotherabbitzz
 zzoltman71
 zzwowo12
-0x2f7c37
-0x626f74
-0x4c554b49
