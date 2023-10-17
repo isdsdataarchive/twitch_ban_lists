@@ -1122,7 +1122,6 @@ izmet_der_boss
 izmet_der_bube
 izmet_der_callcentertorke
 izmet_der_casanova
-izmet_der_chino
 izmet_der_coole
 izmet_der_cooler
 izmet_der_coworker
