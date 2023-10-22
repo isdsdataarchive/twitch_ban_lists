@@ -1212,6 +1212,7 @@ izmet_der_stecher
 izmet_der_tackerer
 izmet_der_tankwart
 izmet_der_tourist
+izmet_der_toyboy
 izmet_der_twitchende
 izmet_der_twitchmoddach
 izmet_der_ulmenpflanzer
