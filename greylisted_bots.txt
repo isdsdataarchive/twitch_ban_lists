@@ -9,6 +9,7 @@ isnicable
 janinebans
 ledrty
 luki4fun_bot_master
+quai1
 silasbots014
 sunshineboy42
 teamkompass_ev
