@@ -1729,6 +1729,7 @@ rollstuhl88000
 rollstuhl_1967
 rollstuhl_akrobatiker
 rollstuhl_frage_m_a
+rollstuhl_mit_rgb_felgen
 rollstuhl_raudi
 rollstuhlbreakdancer
 rollstuhlbreakedancer
