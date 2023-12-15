@@ -1533,12 +1533,10 @@ chino8991
 chino_west
 chino_west_2
 chinoderhund
-chinoteam_anni
 chinowest_jagddich
 chinowest_ss_support7b
 chinowest_supports_7b
 chinowestfan
-chinowestlecktrose
 chinowestnwo
 chinowestnwotv
 chinowestofficalnwotv
@@ -1547,6 +1545,7 @@ chinowestofficialtv
 chinowestproductions
 chinowestproductionstv
 chinowesttvofficial
+chinowuerger_osmer
 chio00000
 chiquitabanane_
 chjunge_alter
