@@ -675,6 +675,7 @@ ich_curry
 ich_hab_den_langen
 ich_hab_kaka_am_ei
 ich_hab_scheidenpilz
+ich_hasse_saft
 ich_kegel_deine_mum
 ich_liebe_fnaf
 ich_liebe_hackbraten444
@@ -1142,6 +1143,7 @@ izmet_der_fiesling
 izmet_der_flattermann
 izmet_der_floetenbauer
 izmet_der_gasleck
+izmet_der_gehackte
 izmet_der_gehilfe
 izmet_der_geier
 izmet_der_gigolo
@@ -1830,6 +1832,8 @@ justforuxd
 justgaming_92
 justgermanprince
 justin13062007
+justin_es_klingelt
+justin_fair_garsen
 justin_gurke
 justin_tomate
 justinbieberfanxxx69
@@ -3211,6 +3215,7 @@ luccas_gaming
 lucinator2008
 luciof__
 luckrrxd
+lucky1_
 lucky_b4sterd
 lucky_derwindhund
 lucky_hat_auch_hunger
