@@ -313,8 +313,10 @@ afd_2023_gewinnt
 afd_fanclub
 afd_letzte_hoffnung
 afd_siegt
+afd_volkspartei_2025
 afd_waehler123
 afdanhaenger
+afdaufdieeins1
 afdberlin85
 afdboi666
 afdchef
