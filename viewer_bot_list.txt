@@ -32,8 +32,10 @@
 0x90designs
 0xr1337
 0xtackling
+00_alissa
 00_ella
 00_emilyy
+00_katie_is_desperate
 00rianaa
 00tylerpyt
 00undercover
@@ -212,6 +214,7 @@ a45330054
 a61582421
 a79723537a
 a156861894
+a_desperate_girl
 a_l0nely_girl
 a_lihsihsiang
 a_long_vehicle
@@ -1894,6 +1897,7 @@ enrimolo
 enrixeb
 ensanguentado
 enso0007
+enteentelos
 enter_w
 entryphones
 enype
