@@ -27,6 +27,10 @@ ist ein Täter. Auch Accounts, die ein potentielles Sicherheitsrisiko für ander
 Auf Grund der Vielzahl von Konten ist die Liste in 3 Listen unterteilt (0-G, H-M & N-Z). So können diese Listen einfacher mit den bekannten Tools gebannt werden.
 Sollten Sie Opfer eines Angriffes dieser Gruppen geworden sein, so können Sie sich gerne an unser Frontoffice [TwitchMods DACH](https://discord.gg/e8YgSBeX86) wenden, um nähere Informationen und weitergehende Hilfe zu erhalten.
 
+# porn_bot_acc_list
+
+Diese Liste richtet sich an die Zeilgruppe von Streamern mit kinder- und/oder familienfreundlichen Inhalten. Auf dieser Liste befinden sich Konten von Streamern, welche FSK18-Inhalte (z.B. Pornografie) offen in ihrem Profil anbieten (z.B. OnlyFans) sowie auch Konten, welche als Bots agieren und auf pornografische Inhalte verweisen oder diese gar beinhalten.
+
 # security_ban_list
 Auf dieser Liste befinden sich Konten, welche mit Followern und Viewern der hate_troll_list kompromittiert sind. Ein Sicherheitsbann wird eingeleitet, um andere Streamer vor der Gefahr zu schützen, dass die o.g. Gruppen in deren Stream einfallen (z.B. durch s.g. Raids). Konten bleiben so lange auf der Liste, bis diese bereinigt und entsprechend gesichert worden sind.
 
