@@ -29,7 +29,7 @@ Sollten Sie Opfer eines Angriffes dieser Gruppen geworden sein, so können Sie s
 
 # porn_bot_acc_list
 
-Diese Liste richtet sich an die Zielgruppe von Streamern mit kinder- und/oder familienfreundlichen Inhalten. Auf dieser Liste befinden sich Konten von Streamern, welche FSK18-Inhalte (z.B. Pornografie) offen in ihrem Profil anbieten (z.B. OnlyFans) sowie auch Konten, welche als Bots agieren und auf pornografische Inhalte verweisen oder diese gar beinhalten.
+Diese Liste richtet sich an die Zielgruppe von Streamern mit kinder- und/oder familienfreundlichen Inhalten. Auf dieser Liste befinden sich Konten von Streamern, welche FSK18-Inhalte (z.B. Pornografie) offen in ihrem Profil anbieten (z.B. OnlyFans, Fansly, Patreon, Linktree) sowie auch Konten, welche als Bots agieren und auf pornografische Inhalte verweisen oder diese gar beinhalten.
 
 # security_ban_list
 Auf dieser Liste befinden sich Konten, welche mit Followern und Viewern der hate_troll_list kompromittiert sind. Ein Sicherheitsbann wird eingeleitet, um andere Streamer vor der Gefahr zu schützen, dass die o.g. Gruppen in deren Stream einfallen (z.B. durch s.g. Raids). Konten bleiben so lange auf der Liste, bis diese bereinigt und entsprechend gesichert worden sind.
