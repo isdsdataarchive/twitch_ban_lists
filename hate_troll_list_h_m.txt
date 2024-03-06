@@ -218,6 +218,7 @@ hartz4mongo_
 hartzer3000
 harz4amlimit
 harz4bezhalteuerbier
+harz4enjoyer
 harzt4_muri
 harzt_ncht_soviel_ihrkeks
 hasbroken95
