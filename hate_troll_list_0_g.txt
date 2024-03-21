@@ -1302,6 +1302,7 @@ borussenberndmausihasi
 bosers4
 bossikopp
 bossschnitzl
+bosstragon
 bossvoice
 bot_r2d2_
 botgesteuertermensch
@@ -4358,6 +4359,7 @@ genderfreak77
 genderfreak78
 genderfreak79
 genderfreak80
+genderfreak82
 genderfreak_fanclub
 genderfreak_fanclub2
 genderfreak_fanclub45amg
