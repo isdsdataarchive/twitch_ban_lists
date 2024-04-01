@@ -968,6 +968,11 @@ peter_fleischmann
 peter_ist_da
 peter_muenchen_ultra
 peter_zwegat1510
+peter_zwegat_88
+peter_zwegat_asbschuldnen
+peter_zwegat_auftragrtl
+peter_zwegat_bauernheim
+peter_zwegat_merseburg
 peter_zwegats
 peterfra420
 peterglaskoch
@@ -991,6 +996,7 @@ peterscully88
 peterscullysoppa
 peterscullysopper
 peterspansen88
+peterzwegat_88
 peterzwegatregelt
 petralutschtfuernenzwambo
 petziopa
