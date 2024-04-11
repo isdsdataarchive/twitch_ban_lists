@@ -1241,6 +1241,7 @@ izmet_mag_jeder
 izmet_mcnuggets
 izmet_nanami
 izmet_noraappbenutzer
+izmet_nutzt_nordvpn
 izmet_o
 izmet_on1
 izmet_online01
@@ -3142,6 +3143,7 @@ lukas_der_prophet
 lukas_lp_2020
 lukasheil2010
 lukasmaksim13
+lukasstr98
 lukasxko
 lukewarmsemen420
 luki715
