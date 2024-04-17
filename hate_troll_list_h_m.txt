@@ -1164,6 +1164,7 @@ izmet_der_prius
 izmet_der_prolet
 izmet_der_punk
 izmet_der_puppenspieler
+izmet_der_ranzige
 izmet_der_reifenwechseler
 izmet_der_renitente
 izmet_der_richtige
@@ -3467,6 +3468,7 @@ martin_faulo
 martin_k1nd3rf1gga
 martin_kz_liebhaber
 martin_schwittzer
+martin_sokiranski88
 martin_wird_gef1ggd
 martindiemaschine
 martindobler123
