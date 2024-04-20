@@ -1177,6 +1177,7 @@ izmet_der_schreck
 izmet_der_schreiber
 izmet_der_seakyle
 izmet_der_sniper
+izmet_der_staedler
 izmet_der_stecher
 izmet_der_stecher1
 izmet_der_stwendler
