@@ -1145,6 +1145,7 @@ izmet_der_obsecler
 izmet_der_ohrwurm
 izmet_der_omaheld
 izmet_der_orwha
+izmet_der_palalee
 izmet_der_pappelpflanzer
 izmet_der_pappelpfluecker
 izmet_der_pascha
