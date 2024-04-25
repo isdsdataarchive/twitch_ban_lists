@@ -1096,6 +1096,7 @@ izmet_der_inder
 izmet_der_it
 izmet_der_izmet
 izmet_der_jamaicaner
+izmet_der_japse
 izmet_der_jodler
 izmet_der_jongleur
 izmet_der_jugendamtler
