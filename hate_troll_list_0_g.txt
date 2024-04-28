@@ -1148,6 +1148,7 @@ bieristsabil
 bieristtoll14
 bierkampfi
 bierkasten_michi
+bierkoenig_informiert
 bierliebhaben
 bierliebhaben14
 bierliebhabener
