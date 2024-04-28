@@ -49,7 +49,7 @@ Sie können solche Konten auch selbst unter [Meldung](mailto:github@isds.tech) u
 # unban_list
 Diese Liste beinahltet Konten, welche entsperrt worden sind. Dies kann im Zuge eines Whitelistings eines Bots passieren, im Rahmen der Aufhebung eines Sicherheitsbannes
 oder aber durch fehlerhafte durch Dritte importierte Listen. Ebenfalls auf dieser Liste stehen Accounts, die früher an Hate-Raids teilgenommen haben, dies aber bereuen.
-Sollten diese Konsten mehr als 3 Strikes sammeln, gibt es keine weitere Chance von dieser Liste wieder herunter genommen werden zu können.
+Sollten diese Konten mehr als 3 Strikes sammeln, gibt es keine weitere Chance von dieser Liste wieder herunter genommen werden zu können.
 
 # viewer_bot_list
 Einige der Konten auf dieser Liste sind keine "Bots" im herkömmlichen Sinne. Sie sind in der Tat Menschen, die sich programmgesteuert in vielen Channels gleichzeitig
