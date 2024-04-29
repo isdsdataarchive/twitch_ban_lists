@@ -485,6 +485,7 @@ nwo_obergauleiter
 nwo_offizier
 nwo_oguzhan
 nwo_ostdeutschland
+nwo_patrick
 nwo_pidserbote
 nwo_pidserbringer
 nwo_pidsermaen
@@ -552,6 +553,8 @@ nwomoskau
 nwone0
 nwoneubi
 nwonwo7b7b7b7
+nwopatrick
+nwopatrick_
 nwoprabteilung
 nworudi
 nwosamuel
