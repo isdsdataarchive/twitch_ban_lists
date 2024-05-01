@@ -2144,6 +2144,7 @@ dein_bot_25
 dein_brudaler_papa
 dein_chat_is_broken
 dein_finanzamt_
+dein_handi_klingelt
 dein_prime
 deinaquariumbrennt88
 deinbenutzernameistfalsch
@@ -2206,6 +2207,7 @@ der_backdoor_wixxer
 der_blanke_hohn_88
 der_booo
 der_die_das_punisher
+der_echte_coole_typ
 der_edgar
 der_einschneider
 der_fahrende_dj
@@ -2602,6 +2604,7 @@ dieinternationalefinanz
 diejudenoma
 dieklingelstreichmasters
 dieletztegeneration030
+dieliebekoksnase
 dieliebemeines_lebens
 dielookis
 diemitdemrotenhalsband1
@@ -4795,6 +4798,7 @@ goldi_miss_handeln
 goldzahn_viper
 gollummus
 gonkhtv
+gonzend_radionslager88
 gonzent_rationslager88
 gooswallow
 gordon180281
