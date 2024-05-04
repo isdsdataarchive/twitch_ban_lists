@@ -531,6 +531,7 @@ nwo_wolf_als_schaf
 nwo_zentrale_emskirchen23
 nwoagent55885
 nwoboss420
+nwofabianwtf
 nwofenkaese1
 nwofenkaese12
 nwofenkaese211
@@ -3912,6 +3913,7 @@ thewolf2600
 they_gone
 thiemzz
 this_is_dante02
+thisangryduck
 thisishaufuerlau
 thisishowweizmet
 thisismlke_hawk
@@ -4316,6 +4318,7 @@ uhrensohnz
 uhupensi
 uisrgleauge
 ukraine_de_tonieren
+ukraine_sprengen
 ukrainer_frittieren
 ukrainer_jagen
 ukrainer_uff_schl8chtbank
