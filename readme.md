@@ -23,9 +23,7 @@ Auf Grund der Vielzahl von Konten ist die Liste in 3 Listen unterteilt (0-G, H-M
 Sollten Sie Opfer eines Angriffes dieser Gruppen geworden sein, so können Sie sich gerne an unser Frontoffice [TwitchMods DACH](https://discord.gg/e8YgSBeX86) wenden, um nähere Informationen und weitergehende Hilfe zu erhalten.
 
 # mad_tos_list
-Die Liste mad_tos_list enthält Konten, welche in besonderer Weise aufgefallen sind. Dazu gehören Beleidigungen, Belästigungen,
-Manipulation von Followerzahlen, Betrug, gezieltes Abgreifen von Followern, Drohungen, Erpressung, Rassismus und exzessives Flirten.
-Sie können solche Konten auch selbst unter [Meldung](mailto:github@isds.tech) unter Mitsendung eines Beweises (Screenshot, VOD oder Ähnliches) vorschlagen.
+Die Liste mad_tos_list enthält Konten, welche in besonderer Weise aufgefallen sind. Dazu gehören Beleidigungen, Belästigungen, Üble Nachrede, Verleumdung, Anstiftung zu Straftaten, Manipulation von Followerzahlen, Betrug, gezieltes Abgreifen von Followern, Drohungen, Erpressung, Rassismus und exzessives Flirten. Sie können solche Konten auch selbst unter [Meldung](mailto:github@isds.tech) unter Mitsendung eines Beweises (Screenshot, VOD oder Ähnliches) vorschlagen.
 
 # porn_bot_acc_list
 
