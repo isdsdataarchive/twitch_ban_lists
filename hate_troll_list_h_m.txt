@@ -1043,6 +1043,7 @@ izmet_der_casanova
 izmet_der_catcher
 izmet_der_chaotische
 izmet_der_clanboss
+izmet_der_coindozer
 izmet_der_coole
 izmet_der_cooler
 izmet_der_coronaleugner
@@ -1067,6 +1068,7 @@ izmet_der_flexer
 izmet_der_floetenbauer
 izmet_der_franzose
 izmet_der_frosch
+izmet_der_fuchs
 izmet_der_fury
 izmet_der_gasleck
 izmet_der_gebannte
