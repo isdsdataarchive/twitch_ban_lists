@@ -2,7 +2,6 @@
 amazeful
 amazefulbot
 bot_awk
-botrixlive
 buttsbot
 commanderroot
 creatisbot
@@ -36,7 +35,6 @@ songlistbot
 soundalerts
 streamdeckerbot
 streamelements
-streamfahrer
 streamholics
 streamjar
 streamkit
