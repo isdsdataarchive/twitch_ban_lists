@@ -41,6 +41,7 @@ streamkit
 streamlabs
 streamstickers
 swiftyspiffy
+tangiabot
 tipeeebot
 tooedgytobot
 twitchmodsdach
