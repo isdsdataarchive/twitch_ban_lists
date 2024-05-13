@@ -1005,6 +1005,7 @@ izmet_der_aachener
 izmet_der_adonis
 izmet_der_adonis1
 izmet_der_allah_prister
+izmet_der_allah_prister3
 izmet_der_anmelder
 izmet_der_anrufende
 izmet_der_anrufer
@@ -2687,6 +2688,7 @@ kuseng_izmet01
 kuseng_izmet069
 kuseng_izmetorius
 kuseng_try069
+kush_cgn
 kushklaus
 kussaufdienuss212
 kv_ns_hunter
