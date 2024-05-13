@@ -1004,7 +1004,6 @@ izmet_der_7bler
 izmet_der_aachener
 izmet_der_adonis
 izmet_der_adonis1
-izmet_der_allah_prister
 izmet_der_allah_prister3
 izmet_der_anmelder
 izmet_der_anrufende
