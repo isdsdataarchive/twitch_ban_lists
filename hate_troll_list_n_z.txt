@@ -4701,13 +4701,11 @@ windows10pro16bit
 windows10pro32bit
 windows10pro64bit
 wingel151
-wingelwongelbob1510
 wingglschleifer
 wingl_wonglx
 wingldingl88
 wingler1510
 winglgott
-winglhunter
 winglmanndersiebte
 winglmett
 winglschursch
@@ -4727,7 +4725,6 @@ winklerson
 winklerszauberstab
 winklertango
 winklerwersonnst
-winterferkel
 winzek_
 wir_backen_judn
 wir_brauchen_vaseline
