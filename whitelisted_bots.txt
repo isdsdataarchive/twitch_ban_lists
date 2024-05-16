@@ -7,6 +7,7 @@ commanderroot
 creatisbot
 dinu
 dixperbro
+eisenfutzi
 fossabot
 isds_official
 karottenkotzbot
