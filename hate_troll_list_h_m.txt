@@ -989,6 +989,8 @@ izmet16
 izmet70
 izmet71
 izmet72
+izmet94
+izmet95
 izmet_015_22_7143_154
 izmet_18
 izmet_19_bethovenstrasse
