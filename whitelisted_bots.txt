@@ -1,4 +1,5 @@
 7tvapp
+aiosbot
 amazeful
 amazefulbot
 bot_awk
