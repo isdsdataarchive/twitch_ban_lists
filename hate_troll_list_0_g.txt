@@ -743,6 +743,7 @@ arbeitslos_ue40
 arbeitslosenlp1
 arbeitssuchend_aber_on
 arcavs_
+ard_jochne
 areschfieker2008
 arestotelesderschlaue
 areydasher
@@ -2211,9 +2212,9 @@ der_fahrende_dj
 der_frosty
 der_grosze_twix
 der_gute_horst_wessel
-der_halien
 der_huebsche_kollege
 der_imposter
+der_inder_in_der_inderin
 der_inder_in_der_inderin1
 der_jenniche_3
 der_judee
@@ -2240,7 +2241,6 @@ der_pferdebumser
 der_pimmlmann
 der_pinzgauer
 der_popohaar_prophet
-der_rechte_weg
 der_reinsch_heist
 der_schnupfen_geht_rum
 der_schwartze_neger
@@ -2249,7 +2249,6 @@ der_stille_gast
 der_troll__
 der_uwue
 der_verballerte
-der_vodafonemitarbeiter
 der_winkl
 der_winkler_meddler
 der_wursti
@@ -2279,7 +2278,6 @@ derbirra1234
 derblankehohn
 derbodenistmomo
 derboialpha
-derbruchbringer69
 derbuddergolem
 derbuergergeldheld
 derbunkerbreent
