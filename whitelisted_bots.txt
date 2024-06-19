@@ -3,6 +3,7 @@ aiosbot
 amazeful
 amazefulbot
 bot_awk
+botrixoficial
 buttsbot
 commanderroot
 creatisbot
