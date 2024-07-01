@@ -4032,6 +4032,7 @@ finanzamt_sachsen
 finanzamtausderddr
 finanzamtawo
 finanzamtbln
+finanzamthamm
 finanzamtmann
 finanzamtsachsen
 finanzamtwiesbadenii
