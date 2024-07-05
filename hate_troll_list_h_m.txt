@@ -1041,6 +1041,7 @@ izmet_der_anrufer
 izmet_der_arzt
 izmet_der_ast
 izmet_der_auflauerer
+izmet_der_augenaustecher
 izmet_der_backfisch
 izmet_der_balrr
 izmet_der_bannende
