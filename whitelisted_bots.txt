@@ -38,6 +38,7 @@ songlistbot
 soundalerts
 streamdeckerbot
 streamelements
+streaminfos
 streamjar
 streamkit
 streamlabs
