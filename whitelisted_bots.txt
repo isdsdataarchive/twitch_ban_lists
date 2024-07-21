@@ -2,6 +2,7 @@
 aiosbot
 amazeful
 amazefulbot
+blerp
 bot_awk
 botrixoficial
 buttsbot
