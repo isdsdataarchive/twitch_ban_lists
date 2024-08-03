@@ -2402,7 +2402,6 @@ der_pate_invicuts
 der_pateinvictus_67
 der_pferdebumser
 der_pimmlmann
-der_pinzgauer
 der_popohaar_prophet
 der_reinsch_heist
 der_schnupfen_geht_rum
