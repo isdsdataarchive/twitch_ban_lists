@@ -1178,6 +1178,7 @@ izmet_der_jamaicaner
 izmet_der_japse
 izmet_der_jodler
 izmet_der_jongleur
+izmet_der_judee
 izmet_der_jugendamtler
 izmet_der_karatazleaker
 izmet_der_klabauter
