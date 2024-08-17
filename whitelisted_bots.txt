@@ -11,6 +11,7 @@ creatisbot
 dinu
 dixperbro
 fossabot
+isnicable
 isds_official
 karottenkotzbot
 karottibot
