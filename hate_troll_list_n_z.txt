@@ -4497,6 +4497,7 @@ twiitchsupport1
 twinky223
 twitch_amintv
 twitch_chef__olli
+twitch_eliasn97
 twitch_inspektor_bot
 twitch_ju_
 twitch_kiliangame
