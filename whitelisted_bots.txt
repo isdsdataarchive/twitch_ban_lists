@@ -11,8 +11,8 @@ creatisbot
 dinu
 dixperbro
 fossabot
-isnicable
 isds_official
+isnicable
 karottenkotzbot
 karottibot
 kofistreambot
@@ -40,6 +40,7 @@ songlistbot
 soundalerts
 streamdeckerbot
 streamelements
+streamerbot
 streaminfos
 streamjar
 streamkit
