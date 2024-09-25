@@ -5802,6 +5802,7 @@ zentralrat_die_maske
 zentralrat_du_fette_sau
 zentralrat_du_maske
 zentralratderhaider
+zentralratderkuffar
 zentralratderluden1510
 zentralratdermeddler
 zentralratdermentalbegren
