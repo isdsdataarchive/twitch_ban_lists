@@ -6087,7 +6087,6 @@ mxtim26
 mxtty_iq
 my_dixie_rect_lol
 my_name_is_bond_jamesbond
-my_name_is_kong
 myakogami
 myi_vaniak
 mykie666
