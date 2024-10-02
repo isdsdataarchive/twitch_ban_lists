@@ -2273,7 +2273,6 @@ da_eda1
 da_voth
 daaaa_flexi8560
 daaavid4
-daavexyz
 dach_au_gelogen
 dachaugmbh
 dachbodenkiste
