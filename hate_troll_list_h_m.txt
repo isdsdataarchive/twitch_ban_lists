@@ -392,6 +392,7 @@ herr_viper_gerd
 herr_wicke_hausbesuch
 herr_winklar
 herrbuliwyf
+herrderziegen
 herrdieterknecht
 herrflutschig
 herrgoldnatz
@@ -3844,6 +3845,7 @@ main_pojukt
 mainhart_esglid
 maiusye
 majinbatu
+majo_nase
 majon1992s
 majon_s
 majonnan
