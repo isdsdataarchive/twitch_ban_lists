@@ -287,6 +287,7 @@ nichtsliggsch
 nick_afk_123
 nick_df123
 nick_kehr
+nick_nbaa
 nick_r1510
 nickgehrin2023
 nickghaaarr
@@ -5812,6 +5813,7 @@ zelin444
 zellewirddichrichtenn
 zeltim_
 zementkopf
+zemgin
 zen0198
 zensurbot8i
 zentralrat_der_chrishater
