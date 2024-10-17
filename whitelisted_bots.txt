@@ -58,3 +58,4 @@ vtuberplus
 wizebot
 wzbot
 xnanabot
+xsolla
