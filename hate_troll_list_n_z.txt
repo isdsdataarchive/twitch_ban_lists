@@ -382,7 +382,6 @@ nixdeutschepass
 nixgartiv108
 nixpro
 nizopruegel_twitch
-nizzi_lol
 nlb_wakka
 no4sh
 no__diggity__
@@ -1698,6 +1697,7 @@ pressesprecher_7b_to
 pressesprecher_7b_xo
 pressesprecher__
 pressesprecher__7b_info
+pressesprecherat7bhaid
 pressesprecherder7b
 pressesprechermuted4ever
 pressftopayrespect1
