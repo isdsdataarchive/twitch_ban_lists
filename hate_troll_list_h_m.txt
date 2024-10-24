@@ -1134,6 +1134,7 @@ izmet_der_beigetretne
 izmet_der_beiruter
 izmet_der_benutzende
 izmet_der_benutzer
+izmet_der_beschuetzer
 izmet_der_beste
 izmet_der_besuchender
 izmet_der_besucher
