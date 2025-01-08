@@ -5921,7 +5921,6 @@ mr_hamdani
 mr_jisi
 mr_kakapopoloch1
 mr_klompf
-mr_knalltuete
 mr_mantilla
 mr_maxii1
 mr_patrick
