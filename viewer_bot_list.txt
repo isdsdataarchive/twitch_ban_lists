@@ -42,7 +42,6 @@
 09300757660
 0x626f74
 0x4c554b49
-1_dev
 1a_twitch_emoticons_show_
 1adoener
 1aliveafricajouhzu
@@ -554,7 +553,6 @@ athena66782
 atolisen5634
 atomcon3545
 atomic_firefloofer69
-atomspalte
 atorn
 atsuhiko9kr
 attackoneren46
@@ -762,7 +760,6 @@ bobiesee
 bobsledded
 bobthebuilder1202
 bocchibellegs0
-bockwurstblinkermitsenf
 boggydabee
 bohofaedpg
 bohousfb
@@ -1454,7 +1451,6 @@ dreamteam5673
 dreikonos0dy
 drivingdesert
 drlucylove
-droelf_zehn
 droxtoxxx
 druggedca
 druiefiery
@@ -1770,7 +1766,6 @@ fly_cat0420
 fmwfilmfan
 fofbminusfofa
 fonya521248
-foobra
 fookstee
 foregoingper
 forfeitures
@@ -2209,7 +2204,6 @@ hereistheproblem
 herigiar_1234
 hermitinhobundapeido
 herokhar
-herr_huebenbecker
 herrausragend
 heshime
 hetpatata
@@ -2321,7 +2315,6 @@ hulksmass
 humane_khan
 humanen
 humidifies
-humptata0815
 hundekoeter_xxl
 hungaria
 hunnekosama1101
@@ -2594,7 +2587,6 @@ jeffs8oqla
 jehvital
 jellybean19832005
 jemma_johnsen
-jener_uhrmacher
 jenniferreids7
 jensasp
 jeppebigfan
@@ -2979,7 +2971,6 @@ kostyathebest1
 kotyareg
 koyomann
 kraoizibabbabnaann
-krause70
 krbotcita_ff
 kreativegamest5k
 kreten
@@ -3690,7 +3681,6 @@ moonxlight1622
 mooortgg
 mooselasean
 mooseph
-mopshalter
 morgane2k7
 morgausseme
 morgenshtern2228
@@ -3707,7 +3697,6 @@ mpendulo112x
 mr
 mr_gestal
 mr_guyplay
-mr_roehrig
 mrblue9527
 mrbopz
 mrcry007
@@ -3733,8 +3722,6 @@ msia777
 mslenity
 msugreenmachine01
 mtfwq
-mthiebot
-mthietv
 mtvsty1en74
 mu_dh2010
 muelli_tonne
@@ -4238,7 +4225,6 @@ pitilessh
 pixelbypixel_bot
 pixelicbot
 pizzalieferant
-planetendreher
 platonizanimey5k
 plausiblek
 play68277
@@ -4502,7 +4488,6 @@ regina_robinsen
 regluar411blade
 regressz
 regys_878
-reifendreher
 reisgeliyor2
 reity1337
 reizgetz
@@ -4586,7 +4571,6 @@ rmenchik
 rmkbot96
 rmkbot2137
 rmzboiii
-roadchecker
 roaden
 roastedify
 robertbackflip
@@ -5413,7 +5397,6 @@ the_dannyboy
 the_hotshot_502
 the_hsb
 the_mrniceguy_
-the_music_lover
 the_piligrim
 the_savage_god12
 the_ultimate_girl_gamer
@@ -5428,7 +5411,6 @@ thebotcat_0gm
 thecalvo2
 thechebupelya
 thecodetherapy
-thecommandergroot
 thecqy
 thedevilisob
 thedjjonney
@@ -5449,7 +5431,6 @@ thelimemime
 thelonewolf7yt
 theluckhunter
 thelurkertv
-thelurxxer
 themalumsl7z
 themilohighclub
 then1ter
@@ -5459,7 +5440,6 @@ thepigbot_
 theproyavi
 thequeenttv__________
 theraalknoosi
-therandomcoder
 therapsidc
 therealdoomtastic
 therobfather1992
