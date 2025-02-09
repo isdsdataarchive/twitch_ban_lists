@@ -1923,7 +1923,15 @@ chanti_diestinkende
 chanti_du_bist_hot
 chanti_ich_kann_singen
 chanti_ist_ein_kek
+chanti_liebt_corinnakopf
+chanti_official
+chanti_offixl
+chanti_offixl2
 chanti_sabotiert
+chanti_troll
+chanti_vollzeit_fangirl
+chanti_wer_bin_ich
+chanti_will_ein_selfie
 chantidieh1ure
 chantifan123
 chantifanboy1975
