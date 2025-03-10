@@ -1,7 +1,7 @@
 7tvapp
 aiosbot
-amazeful
 amazefulbot
+aydonix
 blerp
 bot_awk
 botrixoficial
