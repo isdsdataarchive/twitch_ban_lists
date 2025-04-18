@@ -834,6 +834,8 @@ antifa_magdeburg
 antifa_muell
 antifa_oberoesterreich
 antifabochum
+antifagmbh
+antifaholding
 antifaihrkoenntmichmal
 antiheldd
 antiker_antriebsgolem
@@ -2557,6 +2559,7 @@ delphindrainer
 deltaofficial
 demandingslaver
 democracytheamericanway
+demogeld
 demon_hunter679
 demotiviertx
 den_big_d
