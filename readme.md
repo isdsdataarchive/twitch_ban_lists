@@ -17,9 +17,9 @@ Kein Konto auf dieser Liste ist fälschlicherweise darauf zu finden. Die Account
 oder sie in anderer Weise unterstützt. Außerhalb dieser Raids können sich die Benutzer hinter den Konten ganz normal verhalten. Sie sollten
 jedoch vorsichtig sein, welche Informationen Sie über sich preisgeben. Es ist nicht ausgeschlossen, dass diese Informationen an einem Ort landen,
 an dem Sie diese nicht haben wollen. Die Konten werden doppelt geprüft und teilweise mit Trackern ausgestattet, um die Raids besser verfolgen zu können.
-Anträge auf Streichung von der Liste mit der Begründung, man habe nur teilgenommen, um nicht aufzufallen, werden nicht akzeptiert. Denn jeder, der mitmacht, ist ein Täter. Auch Accounts, die ein potentielles Sicherheitsrisiko für andere Streamer darstellen, z.B. durch einen Raid, stehen auf dieser Liste.
+Anträge auf Streichung von der Liste mit der Begründung, man habe nur teilgenommen, um nicht aufzufallen, werden nicht akzeptiert. Denn jeder, der mitmacht, ist ein Täter. Auch Accounts, die ein potentielles Sicherheitsrisiko für andere Streamer darstellen, z.B. durch einen Raid oder gar Streamer aus der Haider-Szene, stehen auf dieser Liste.
 Auf Grund der Vielzahl von Konten ist die Liste in 3 Listen unterteilt (0-G, H-M & N-Z). So können diese Listen einfacher mit den bekannten Tools gebannt werden.
-Sollten Sie Opfer eines Angriffes dieser Gruppen geworden sein, so können Sie sich gerne an unser Frontoffice [TwitchMods DACH](https://discord.gg/e8YgSBeX86) wenden, um nähere Informationen und weitergehende Hilfe zu erhalten.
+Sollten Sie Opfer eines Angriffes dieser Gruppen geworden sein, so können Sie sich gerne an unser Frontoffice [TwitchMods DACH](https://discord.gg/e8YgSBeX86) wenden, um nähere Informationen und weiterführende Hilfe zu erhalten.
 
 # mad_tos_list
 Die Liste mad_tos_list enthält Konten, welche in besonderer Weise aufgefallen sind. Dazu gehören Beleidigungen, Belästigungen, Üble Nachrede, Verleumdung, Anstiftung zu Straftaten, Manipulation von Followerzahlen, Betrug, gezieltes Abgreifen von Followern, Drohungen, Erpressung, Rassismus und exzessives Flirten. Sie können solche Konten auch selbst unter [Meldung](mailto:github@isds.tech) unter Mitsendung eines Beweises (Screenshot, VOD oder Ähnliches) vorschlagen.
