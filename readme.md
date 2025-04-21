@@ -25,7 +25,7 @@ Sollten Sie Opfer eines Angriffes dieser Gruppen geworden sein, so können Sie s
 Die Liste mad_tos_list enthält Konten, welche in besonderer Weise aufgefallen sind. Dazu gehören Beleidigungen, Belästigungen, Üble Nachrede, Verleumdung, Anstiftung zu Straftaten, Manipulation von Followerzahlen, Betrug, gezieltes Abgreifen von Followern, Drohungen, Erpressung, Rassismus und exzessives Flirten. Sie können solche Konten auch selbst unter [Meldung](mailto:github@isds.tech) unter Mitsendung eines Beweises (Screenshot, VOD oder Ähnliches) vorschlagen.
 
 # porn_bot_acc_list
-Diese Liste richtet sich an die Zielgruppe von Streamern mit kinder- und/oder familienfreundlichen Inhalten. Auf dieser Liste befinden sich Konten von Streamern, welche FSK18-Inhalte (z.B. Pornografie) offen in ihrem Profil anbieten (z.B. OnlyFans, Fansly, Patreon, Linktree) sowie auch Konten, welche als Bots agieren und auf pornografische Inhalte verweisen oder diese gar beinhalten. Ebenfalls darauf zu finden sind sexuell anstößige Accountnamen. Diese Liste enthält internationale Accounts.
+Diese Liste richtet sich an die Zielgruppe von Streamern mit kinder- und/oder familienfreundlichen Inhalten. Auf dieser Liste befinden sich Konten von Streamern, welche FSK16-/FSK18-Inhalte (z.B. Pornografie) offen in ihrem Profil anbieten (z.B. OnlyFans, Fansly, Patreon, Linktree) sowie auch Konten, welche als Bots agieren und auf pornografische Inhalte verweisen oder diese gar beinhalten. Ebenfalls darauf zu finden sind sexuell anstößige Accountnamen. Diese Liste enthält internationale Accounts.
 
 # security_ban_list
 Auf dieser Liste befinden sich Konten, welche mit Followern und Viewern der hate_troll_list kompromittiert sind. Ein Sicherheitsbann wird eingeleitet, um andere Streamer vor der Gefahr zu schützen, dass die o.g. Gruppen in deren Stream einfallen (z.B. durch s.g. Raids). Konten bleiben so lange auf der Liste, bis diese bereinigt und entsprechend gesichert worden sind.
@@ -36,7 +36,7 @@ und Personen, die für einen anderen Kanal werben oder Produkte Werbung machen.
 Sie können solche Konten auch selbst unter [Meldung](mailto:github@isds.tech) unter Mitsendung eines Beweises (Screenshot, VOD oder Ähnliches) vorschlagen.
 
 # spam_bot_list
-Diese Liste enthält Konten, die als Spambots bezeichnet werden. Diese Bots werden verwendet, um Ihren Chat mit Nachrichten zu spammen.
+Diese Liste enthält Konten, die als Spambots bezeichnet werden. Diese Bots werden verwendet, um Ihren Chat automatisiert mit Nachrichten zu fluten.
 
 # streamsniper_list
 In dieser Liste sind Konten aufgeführt, die sich durch das Beobachten Ihres Streams einen unfairen Vorteil in Spielen verschaffen.
@@ -49,4 +49,4 @@ Diese Liste beinahltet Konten, welche entsperrt worden sind. Dies kann im Zuge e
 Einige der Konten auf dieser Liste sind keine "Bots" im herkömmlichen Sinne. Sie sind in der Tat Menschen, die sich programmgesteuert in vielen Channels gleichzeitig aufhalten, aus welchem Grund auch immer (z. B. um Channel-Punkte zu farmen, Statistiken zu sammeln oder ähnlich gelagerten Gründen).
 
 # whitelisted_bots
-Diese Liste enthält Bots/Accounts, die von uns auf eine Whitelist gesetzt wurden. Sie sind harmlos und arbeiten teilweise mit uns zusammen.
+Diese Liste enthält Bots/Accounts, die von uns auf eine Whitelist gesetzt wurden. Sie sind harmlos, stehen im Dienste der Allgemeinheit und arbeiten in Teilen mit uns zusammen.
