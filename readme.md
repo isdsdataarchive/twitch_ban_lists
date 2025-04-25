@@ -41,6 +41,7 @@ Diese Liste enthält Konten, die als Spambots bezeichnet werden. Diese Bots werd
 # streamsniper_list
 In dieser Liste sind Konten aufgeführt, die sich durch das Beobachten Ihres Streams einen unfairen Vorteil in Spielen verschaffen.
 Sie können solche Konten auch selbst unter [Meldung](mailto:github@isds.tech) unter Mitsendung eines Beweises (Screenshot, VOD oder Ähnliches) vorschlagen.
+Anmerkung: Wird zum 27.04.2025 eingestellt und in die mad_tos_list überführt.
 
 # unban_list
 Diese Liste beinahltet Konten, welche entsperrt worden sind. Dies kann im Zuge eines Whitelistings eines Bots passieren, im Rahmen der Aufhebung eines Sicherheitsbannes oder aber durch fehlerhafte durch Dritte importierte Listen. Ebenfalls auf dieser Liste stehen Accounts, die früher an Hate-Raids teilgenommen haben, dies aber bereuen. Sollten diese Konten mehr als 3 Strikes sammeln, gibt es keine weitere Chance von dieser Liste wieder herunter genommen werden zu können.
