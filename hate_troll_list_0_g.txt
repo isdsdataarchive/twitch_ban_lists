@@ -1571,11 +1571,13 @@ blaueklaus_bettler
 blaueklaus_bumse_oli
 blaueklaus_bumsen_oli
 blaueklaus_stiernacken
+blaueklaus_tv
 blaueklaustv_betrueger
 blaueklaustv_bettel_kanal
 blaueklaustv_verbrecher
 blaueklaustvmailand
 blaueklaustvthaiiand
+blauerklaustvthailand
 blaulicht_intensiv
 blauton
 blendcgn
