@@ -3006,6 +3006,7 @@ klasse7btv
 klasse_7b
 klassenclown_7b
 klassensprecher7b
+klassensprecher_der_7b
 klatschender_albaner
 klaus_der_banger
 klaus_kinski_908
