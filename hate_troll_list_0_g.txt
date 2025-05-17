@@ -1756,7 +1756,14 @@ bueckstueck_88
 bueckstuecknova1207
 buergergeld
 buergergeld_altintash
+buergergeld_nichtserreich
+buergergeld_opfer
 buergergeld_pattis_welt
+buergergeld_rubaz
+buergergeld_schmarotzer
+buergergeld_versager
+buergergeldbetrugtempenny
+buergergeldlappen
 buergergeldschmarotzer
 buergermeisterdesorients
 buergerwehrkleingeschaidi
