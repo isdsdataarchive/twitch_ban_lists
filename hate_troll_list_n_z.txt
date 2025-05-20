@@ -1058,6 +1058,7 @@ osmo_der_zigeunerschreck
 osmo_derechte
 osmo_derrechte
 osmo_derzigeunerschreck
+osmo_die_fischsahne69
 osmo_feuerteufel
 osmo_hat_bodytype_simpson
 osmo_hat_den_kleinsten
@@ -1074,7 +1075,12 @@ osmo_stichtmartinab
 osmo_stinkt
 osmo_stolzdeutsch
 osmo_weidetlaleaus
+osmoausdemknast
+osmoderschwarzeaffe234
+osmoderschwarzeaffe23423
+osmoderschwarzeaffe234234
 osmoschlitztmartinundlale
+osmoweidetdichaus
 ossi093
 ossi_ghg
 ossilondo
