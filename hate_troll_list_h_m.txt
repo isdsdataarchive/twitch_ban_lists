@@ -1204,6 +1204,7 @@ izmet_der_anhaengerle
 izmet_der_anmelder
 izmet_der_anrufende
 izmet_der_anrufer
+izmet_der_anruferr
 izmet_der_araba
 izmet_der_arbeitende
 izmet_der_artist
@@ -1370,6 +1371,7 @@ izmet_der_lord
 izmet_der_luegner
 izmet_der_luftikus
 izmet_der_luisestecher
+izmet_der_lump
 izmet_der_lumpenhunter
 izmet_der_lumpenleaker
 izmet_der_lustike
@@ -1443,6 +1445,7 @@ izmet_der_saarlouis
 izmet_der_salamipizza
 izmet_der_sandmann
 izmet_der_saxoniar
+izmet_der_scammer
 izmet_der_schillingtoeter
 izmet_der_schlaufuchs
 izmet_der_schmexis
@@ -1451,6 +1454,7 @@ izmet_der_schreck
 izmet_der_schreiber
 izmet_der_schwede
 izmet_der_seakyle
+izmet_der_seelensorger
 izmet_der_siedenburger
 izmet_der_siwayaner
 izmet_der_sniper
@@ -1461,6 +1465,7 @@ izmet_der_stechende
 izmet_der_stecher
 izmet_der_stecher1
 izmet_der_stinkeck
+izmet_der_streamer
 izmet_der_stwendler
 izmet_der_tackerer
 izmet_der_tankwart
@@ -1470,6 +1475,7 @@ izmet_der_telefonist1
 izmet_der_telefonist2
 izmet_der_telefonist3
 izmet_der_telefonist4
+izmet_der_telefontorke
 izmet_der_temzi
 izmet_der_tiktoker
 izmet_der_toerke
