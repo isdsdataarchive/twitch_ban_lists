@@ -1,9 +1,6 @@
 # Wichtige Informationen
-Hier finden Sie unsere Listen über Follower-Bots, Stream-Sniper und Konten, welche unangenehm aufgefallen sind sowie Konten
-von Hatern/Trollen aus diversen organisierten Gruppen.
-Die Listen sind als verifiziert zu betrachten. Wenn Ihr Account irgendwie auf eine dieser Listen gekommen ist und Sie 
-denken, dass er dort zu Unrecht aufgeführt ist, lassen Sie es uns bitte unter [Entbannungsanfrage](mailto:unban@isds.tech) wissen. 
-Die Listen werden automatisch aktualisiert. 
+Hier finden Sie die Listen der TMD-Community über Follower-Bots, Stream-Sniper und Konten, welche unangenehm aufgefallen sind sowie Konten von Hatern/Trollen aus diversen organisierten Gruppen.
+Die Listen werden von uns überprüft sind als verifiziert zu betrachten. Wenn Ihr Account irgendwie auf eine dieser Listen gekommen ist und Sie denken, dass er dort zu Unrecht aufgeführt ist, lassen Sie es uns bitte unter [Entbannungsanfrage](mailto:unban@isds.tech) wissen. Die Listen werden automatisch aktualisiert. 
 
 # follower_bot_list
 Diese Liste enthält Konten, die im Zusammenhang mit dem sogenannten Follower-Botting erfasst wurden.
@@ -13,10 +10,7 @@ Auf dieser Liste befinden sich Konten, welche als ungefährlich einzustufen sind
 
 # hate_troll_list
 Auf der Liste der Troll- oder Hass-Raids finden Sie die Teilnehmer dieser Raids, soweit diese bekannt sind.
-Kein Konto auf dieser Liste ist fälschlicherweise darauf zu finden. Die Accounts haben entweder diese Raids organisiert, an diesen Raids teilgenommen
-oder sie in anderer Weise unterstützt. Außerhalb dieser Raids können sich die Benutzer hinter den Konten ganz normal verhalten. Sie sollten
-jedoch vorsichtig sein, welche Informationen Sie über sich preisgeben. Es ist nicht ausgeschlossen, dass diese Informationen an einem Ort landen,
-an dem Sie diese nicht haben wollen. Die Konten werden doppelt geprüft und teilweise mit Trackern ausgestattet, um die Raids besser verfolgen zu können.
+Kein Konto auf dieser Liste ist fälschlicherweise darauf zu finden. Die Accounts haben entweder diese Raids organisiert, an diesen Raids teilgenommen oder sie in anderer Weise unterstützt. Außerhalb dieser Raids können sich die Benutzer hinter den Konten ganz normal verhalten. Sie sollten jedoch vorsichtig sein, welche Informationen Sie über sich preisgeben. Es ist nicht ausgeschlossen, dass diese Informationen an einem Ort landen, an dem Sie diese nicht haben wollen. Die Konten werden doppelt geprüft und teilweise mit Trackern ausgestattet, um die Raids besser verfolgen zu können.
 Anträge auf Streichung von der Liste mit der Begründung, man habe nur teilgenommen, um nicht aufzufallen, werden nicht akzeptiert. Denn jeder, der mitmacht, ist ein Täter. Auch Accounts, die ein potentielles Sicherheitsrisiko für andere Streamer darstellen, z.B. durch einen Raid oder gar Streamer aus der Haider-Szene, stehen auf dieser Liste.
 Auf Grund der Vielzahl von Konten ist die Liste in 3 Listen unterteilt (0-G, H-M & N-Z). So können diese Listen einfacher mit den bekannten Tools gebannt werden.
 Sollten Sie Opfer eines Angriffes dieser Gruppen geworden sein, so können Sie sich gerne an unser Frontoffice [TwitchMods DACH](https://discord.gg/e8YgSBeX86) wenden, um nähere Informationen und weiterführende Hilfe zu erhalten.
