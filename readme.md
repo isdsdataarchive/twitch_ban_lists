@@ -40,3 +40,8 @@ Einige der Konten auf dieser Liste sind keine "Bots" im herkömmlichen Sinne. Si
 
 # whitelisted_bots
 Diese Liste enthält Bots/Accounts, die von uns auf eine Whitelist gesetzt wurden. Sie sind harmlos, stehen im Dienste der Allgemeinheit und arbeiten in Teilen mit uns zusammen.
+
+# Haftungsausschluss
+Die genannten Listen werden ausdrücklich nicht durch das Institut geführt, erstellt oder betrieben. Sie entstehen aus dem eigenständigen Austausch sowie den Meldungen innerhalb der deutschsprachigen Twitch-Community, insbesondere durch Streamerinnen, Streamer und Moderationsteams. Das Institut übernimmt in diesem Zusammenhang ausschließlich eine nachgelagerte Prüf- und Kontrollfunktion einzelner Meldungen, ohne selbst Herausgeber, Verantwortlicher oder Betreiber der Listen zu sein. Eine rechtliche, inhaltliche oder organisatorische Trägerschaft der Listen durch das Institut besteht daher nicht.
+
+Diese Seite gilt als reine Transparenzinformation nach Art. 13/14 DSGVO.
