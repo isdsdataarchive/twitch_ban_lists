@@ -20,6 +20,7 @@ lattemotte
 littlemissmoonas_bot
 logviewer
 lolrankbot
+luki4fun_bot_master
 mikuia
 miramariebot
 mirawerner
