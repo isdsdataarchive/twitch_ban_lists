@@ -45,4 +45,4 @@ Die genannten Listen werden ausdrücklich nicht durch das Institut geführt, ers
 
 Diese Seite gilt als reine Transparenzinformation nach Art. 13/14 DSGVO.
 
-Quelle der Daten: Twitch API, Twitch geteilte Sperren-Info (Shared Ban Info), Twitch Chat History
+Quelle der Daten: Twitch API, Twitch geteilte Sperren-Info (Shared Ban Info), Twitch Chatverlauf (Chat History) und Twitch Suspendierungen (Suspension).
