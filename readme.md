@@ -44,3 +44,5 @@ Diese Liste enthält Bots/Accounts, die von uns auf eine Whitelist gesetzt wurde
 Die genannten Listen werden ausdrücklich nicht durch das Institut geführt, erstellt oder betrieben. Sie entstehen aus dem eigenständigen Austausch sowie den Meldungen innerhalb der deutschsprachigen Twitch-Community, insbesondere durch Streamerinnen, Streamer und Moderationsteams. Das Institut übernimmt in diesem Zusammenhang ausschließlich eine nachgelagerte Prüf- und Kontrollfunktion einzelner Meldungen, ohne selbst Herausgeber, Verantwortlicher oder Betreiber der Listen zu sein. Eine rechtliche, inhaltliche oder organisatorische Trägerschaft der Listen durch das Institut besteht daher nicht.
 
 Diese Seite gilt als reine Transparenzinformation nach Art. 13/14 DSGVO.
+
+Quelle der Daten: Twitch API, Twitch geteilte Sperren-Info (Shared Ban Info), Twitch Chat History
