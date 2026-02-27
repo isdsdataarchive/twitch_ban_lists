@@ -1,6 +1,6 @@
 # Wichtige Informationen
-Hier finden Sie die Listen der TMD-Community über Follower-Bots, Stream-Sniper und Konten, welche unangenehm aufgefallen sind sowie Konten von Hatern/Trollen aus diversen organisierten Gruppen.
-Die Listen werden von uns überprüft sind als verifiziert zu betrachten. Wenn Ihr Account irgendwie auf eine dieser Listen gekommen ist und Sie denken, dass er dort zu Unrecht aufgeführt ist, lassen Sie es uns bitte unter [Entbannungsanfrage](mailto:unban@isds.tech) wissen. Die Listen werden automatisch aktualisiert. 
+Hier finden Sie die Listen der Twitch-Community über Viewer-Bots, Follower-Bots, Spam-Bots und Konten, welche wiederholt unangenehm aufgefallen sind sowie Konten von s.g. Hatern/Trollen aus diversen organisierten Gruppen.
+Die Listen werden von uns gegengeprüft. Wenn Ihr Account irgendwie auf eine dieser Listen gekommen ist und Sie denken, dass er dort zu Unrecht aufgeführt ist, lassen Sie es uns bitte unter [Entbannungsanfrage](mailto:unban@isds.tech) wissen. Wir setzen uns dann mit dem entsprechenden Moderator oder Streamer in Verbindung und vermitteln eine Lösung. Die Listen werden automatisch aktualisiert. 
 
 # follower_bot_list
 Diese Liste enthält Konten, die im Zusammenhang mit dem sogenannten Follower-Botting erfasst wurden.
@@ -25,15 +25,14 @@ Hierbei handelt es sich um eine Community-Liste. Diese Liste richtet sich an die
 Auf dieser Liste befinden sich Konten, welche mit Followern und Viewern der hate_troll_list kompromittiert sind. Ein Sicherheitsbann wird eingeleitet, um andere Streamer vor der Gefahr zu schützen, dass die o.g. Gruppen in deren Stream einfallen (z.B. durch s.g. Raids). Konten bleiben so lange auf der Liste, bis diese bereinigt und entsprechend gesichert worden sind.
 
 # seller_advertising_list
-Diese Liste enthält Konten, die in Chats Werbung machen. Dabei kann es sich um sogenannte Verkäufer-Bots handeln, aber auch um einzelne Streamer
-und Personen, die für einen anderen Kanal werben oder Produkte Werbung machen.
+Diese Liste enthält Konten, die in Chats Werbung machen. Dabei kann es sich um sogenannte Verkäufer-Bots handeln, aber auch um einzelne Streamer und Personen, die für einen anderen Kanal werben oder Produkte Werbung machen.
 Sie können solche Konten auch selbst unter [Meldung](mailto:github@isds.tech) unter Mitsendung eines Beweises (Screenshot, VOD oder Ähnliches) vorschlagen.
 
 # spam_bot_list
 Diese Liste enthält Konten, die als Spambots bezeichnet werden. Diese Bots werden verwendet, um Ihren Chat automatisiert mit Nachrichten zu fluten.
 
 # unban_list
-Diese Liste beinahltet Konten, welche entsperrt worden sind. Dies kann im Zuge eines Whitelistings eines Bots passieren, im Rahmen der Aufhebung eines Sicherheitsbannes oder aber durch fehlerhafte durch Dritte importierte Listen. Ebenfalls auf dieser Liste stehen Accounts, die früher an Hate-Raids teilgenommen haben, dies aber bereuen. Sollten diese Konten mehr als 3 Strikes sammeln, gibt es keine weitere Chance von dieser Liste wieder herunter genommen werden zu können.
+Diese Liste beinahltet Konten, welche entsperrt worden sind. Dies kann im Zuge eines Whitelistings eines Bots passieren, im Rahmen der Aufhebung eines Sicherheitsbanns oder aber durch fehlerhafte durch Dritte importierte Listen. Ebenfalls auf dieser Liste stehen Accounts, die früher an Hate-Raids teilgenommen haben, diese aber aufrichtig bereuen. Sollten diese Konten mehr als 3 Strikes sammeln, gibt es keine weitere Chance von dieser Liste wieder herunter genommen werden zu können.
 
 # viewer_bot_list
 Einige der Konten auf dieser Liste sind keine "Bots" im herkömmlichen Sinne. Sie sind in der Tat Menschen, die sich programmgesteuert in vielen Channels gleichzeitig aufhalten, aus welchem Grund auch immer (z. B. um Channel-Punkte zu farmen, Statistiken zu sammeln oder ähnlich gelagerten Gründen).
