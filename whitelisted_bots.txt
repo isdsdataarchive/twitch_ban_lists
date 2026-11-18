@@ -26,6 +26,7 @@ miramariebot
 mirawerner
 mirrobot
 moobot
+mydealz
 nightbot
 overrustlelogs
 own3d
