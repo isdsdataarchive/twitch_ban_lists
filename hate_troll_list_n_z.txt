@@ -5117,7 +5117,6 @@ twiitchsupport1
 twinky223
 twinkydunham
 twitch_amintv
-twitch_chef__olli
 twitch_eliasn97
 twitch_inspektor_bot
 twitch_ju_
